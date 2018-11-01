@@ -4,7 +4,7 @@
 
 ***
 
-## -Android与移动智能设备开发
+## -Java与移动智能设备开发
 
 ***
 * [GitHub](https://github.com/zhanghaibo25/software-engineering/tree/master/Project)
