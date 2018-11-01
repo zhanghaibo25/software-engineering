@@ -21,15 +21,15 @@
   * GitHub：https://github.com/yangxuhui111
 * 杨少杰
   * email:550438884@qq.com
-  * GitHub：
+  * GitHub：https://github.com/JXLY
 * 尚一飞
   * email:1004978291@qq.com
-  * GitHub：
+  * GitHub：https://github.com/shangyifei666
 * 黄亚鑫
   * email：562479963@qq.com
   * GitHub：
 * 刘亚峰
   * email：2593897350@qq.com
-  * GitHub： 
+  * GitHub：https://github.com/2593897350 
 ### 运行效果
  暂无
