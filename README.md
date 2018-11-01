@@ -15,10 +15,10 @@
 ### 项目成员 
 * 张海波
   * email：2191791476@qq.com
-  * Github:
+  * Github:https://github.com/zhanghaibo25/
 * 杨旭辉
   * email：790443530@qq.com
-  * GitHub：
+  * GitHub：https://github.com/yangxuhui111
 * 杨少杰
   * email:550438884@qq.com
   * GitHub：
