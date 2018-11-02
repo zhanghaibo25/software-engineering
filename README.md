@@ -27,7 +27,7 @@
   * GitHub：https://github.com/shangyifei666
 * 黄亚鑫
   * email：562479963@qq.com
-  * GitHub：
+  * GitHub：https://github.com/huangyaxin1999
 * 刘亚峰
   * email：2593897350@qq.com
   * GitHub：https://github.com/2593897350 
